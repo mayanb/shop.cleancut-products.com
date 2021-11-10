@@ -8,7 +8,7 @@ plugins:
 
 title: "CleanCut Products" # the name of your site, e.g. ACME Corp.
 tagline: "Better Cleaners"
-email: "your.email@gmail.com"
+email: "maya@hbs.edu"
 description: >- # this means to ignore newlines until "baseurl:"
 author: name
 
