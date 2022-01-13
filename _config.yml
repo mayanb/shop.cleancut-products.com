@@ -24,6 +24,12 @@ twitter:
   card: summary #keep this to generate a twitter share card
 
 
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 
 
 
