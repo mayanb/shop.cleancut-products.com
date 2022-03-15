@@ -1,6 +1,8 @@
 ---
 ---
 @import 'bootstrap/bootstrap';
+
+
 .page-holder {
   min-height: 100vh;
 }
@@ -9,3 +11,24 @@
   background-size: cover !important;
 }
 
+
+html {
+height: 100%;
+}
+
+body {
+height: 100%;
+}
+
+.space { 
+margin:0; 
+padding:0; 
+height:100px; 
+}
+
+.fa-chevron-up {
+    transition: all 0.3s ease;
+ }
+.collapsed .fa-chevron-up {
+  transform: rotate(180deg);
+}
